@@ -1,0 +1,166 @@
+Model: gpt-5-nano
+
+Here are concise introductions to each figure:
+
+- Lord Krishna
+  - Who he is: A major Hindu deity widely worshipped across traditions. In many traditions he is considered an avatar (incarnation) of Vishnu, while some others regard him as the supreme or independent form of God.
+  - Why he’s important: Krishna’s life and teachings span many popular stories—his childhood and youth in Vrindavan, his role as the charioteer and guide to Arjuna in the Mahabharata (where the Bhagavad Gita is spoken), and his playful and loving aspects as a divine youth and lover.
+  - Key forms and symbols: Flute-playing Krishna, blue skin, yellow clothes, often with cows and devotees. Forms include Bala Krishna, Gopala, and Jagannath.
+  - Major scriptures and worship: Bhagavata Purana, Mahabharata (Bhagavad Gita), and other Vaishnava texts. Festivals include Janmashtami (Krishna’s birth) and Holi.
+
+- Lord Shiva
+  - Who he is: One of the principal deities of Hinduism, part of the Trimurti (with Brahma and Vishnu). He is often described as the destroyer/transformer, but this is in the sense of dissolution for renewal, not mere cruelty.
+  - Why he’s important: He embodies asceticism, meditation, and auspicious power. He is the lord of yogis, and a central figure in Shaivism.
+  - Key forms and symbols: Nataraja (cosmic dancer), the lingam symbol, a third eye, crescent moon, often smeared with ashes. His consort is Parvati; children include Ganesha and Kartikeya.
+  - Major worship and festivals: Temples dedicated to Shiva are widespread; Maha Shivaratri is a major festival. He is worshipped in many forms and manifolds across India.
+
+- Guru Raghavendra (Raghavendra Swami)
+  - Who he is: A renowned 17th-century Hindu saint and philosopher in the Dvaita Vedanta tradition (founded by Madhva). He is regarded as a highly realized guru by his followers.
+  - Why he’s important: He revitalized and taught the Dvaita philosophy, emphasized bhakti (devotion) to Vishnu/Narayana, and became a beloved spiritual guide for many Hindus.
+  - Life and legacy: Born in 1598 and departed this world in 1671. He is closely associated with the matha (monastic center) at Mantralayam on the Tungabhadra river, where his samadhi (tomb) is revered. His disciples and devotees continue his spiritual lineage.
+  - Teachings and practice: Emphasis on devotion to Lord Vishnu, ethical living, and service. His followers maintain temples, perform daily rituals, and seek his blessings through prayers and charitable acts.
+
+If you’d like, I can give more detail on any one of them (mythology, iconography, temples, or specific scriptures), or suggest simple readings or reliable sources.
+
+========================================================================
+
+Model: claude-sonnet-4-5
+
+# Lord Krishna in Hinduism
+
+Krishna is one of the most beloved and widely worshipped deities in Hinduism. He is:
+
+- **The eighth avatar (incarnation) of Lord Vishnu**, who descended to Earth to restore dharma (righteousness)
+- **Central figure of the Bhagavad Gita**, where he serves as charioteer and spiritual teacher to Arjuna
+- **A multifaceted deity** - portrayed as a divine child, mischievous cowherd, romantic lover, and supreme teacher
+- Believed to have lived around 3000 BCE in Mathura and Vrindavan
+- Revered for his teachings on devotion (bhakti), duty (karma), and the path to liberation
+
+---
+
+# Lord Shiva in Hinduism
+
+Shiva is one of the principal deities and part of the Hindu trinity (Trimurti):
+
+- **The Destroyer and Transformer** - responsible for dissolution and recreation of the universe
+- **The Supreme Being** in Shaivism tradition
+- Often depicted meditating in the Himalayas, with a third eye, cobra around his neck, and trident (trishula)
+- Associated with asceticism, yoga, meditation, and the arts
+- Consort of Goddess Parvati; father of Ganesha and Kartikeya
+- Represents the cycle of creation, preservation, and dissolution
+
+---
+
+# Guru Raghavendra in Hinduism
+
+Guru Raghavendra (1595-1671) was:
+
+- **A renowned Hindu saint and philosopher** in the Dvaita (dualistic) Vedanta tradition
+- Chief pontiff of the Madhvacharya mutt (monastery) at Kumbakonam
+- Known for his scholarship, miracles, and devotion to Lord Vishnu
+- Author of numerous commentaries on Hindu scriptures
+- His shrine at Mantralayam (Andhra Pradesh) is a major pilgrimage site where devotees believe he continues to bless them
+
+========================================================================
+
+Model: gemini-2.5-flash
+
+Here's an overview of Lord Krishna, Shiva, and Guru Raghavendra in Hinduism:
+
+---
+
+### Who is Lord Krishna in Hinduism?
+
+**Lord Krishna** is one of the most revered and worshipped deities in Hinduism, considered the **eighth avatar (incarnation) of Lord Vishnu**, the preserver god within the Trimurti (Hindu trinity). He is a central figure in the epic Mahabharata, particularly in the Bhagavad Gita, where he imparts profound spiritual wisdom to Arjuna on the battlefield of Kurukshetra.
+
+Key aspects and roles of Lord Krishna:
+
+*   **Divine Avatar:** He is believed to have descended to Earth to restore dharma (righteousness) and destroy evil.
+*   **Playful Child and Youth:** His early life in Vrindavan is filled with stories of his mischievous childhood (as a butter thief, "Makhan Chor"), his divine play (leela) with the Gopis, and his enchanting flute playing that captivated all.
+*   **Philosopher and Teacher:** As Arjuna's charioteer in the Mahabharata, he delivers the Bhagavad Gita, a discourse on duty, righteousness, selflessness, devotion, and the nature of reality.
+*   **Warrior and King:** He played a pivotal role in the Kurukshetra war and later established the kingdom of Dwarka.
+*   **Supreme Being:** For many Vaishnavites (devotees of Vishnu), especially those in the Gaudiya Vaishnava tradition (like ISKCON), Krishna is not just an avatar but the Svayam Bhagavan, the Supreme Personality of Godhead, from whom all other deities and avatars originate.
+*   **Symbolism:** Krishna embodies divine love, joy, wisdom, courage, and the balance between worldly duties and spiritual liberation. He is often depicted with dark skin, wearing yellow robes, holding a flute, and adorned with peacock feathers.
+
+---
+
+### Who is Shiva in Hinduism?
+
+**Shiva** is one of the principal deities of Hinduism, often referred to as "The Destroyer" within the Trimurti (the Hindu trinity of Brahma, Vishnu, and Shiva, representing creation, preservation, and destruction/transformation, respectively). However, his role as a destroyer is not merely negative; it signifies the destruction of ignorance, evil, and the old order to pave the way for new creation and renewal.
+
+Key aspects and roles of Shiva:
+
+*   **The Destroyer and Transformer:** He is the force that brings about dissolution and rebirth, essential for the cosmic cycle.
+*   **The Ascetic (Adi Yogi):** Shiva is revered as the Adi Yogi (the first yogi) and Adi Guru (the first guru), the source of yoga and meditation. He is often depicted meditating on Mount Kailash, covered in ash, with a third eye symbolizing wisdom and insight.
+*   **Family Man:** Despite his ascetic nature, Shiva is also depicted as a householder, married to Parvati (Shakti) and father to Ganesha and Kartikeya.
+*   **Lord of Dance (Nataraja):** His cosmic dance (Tandava) represents the rhythm of the universe, encompassing creation, preservation, destruction, illusion, and liberation.
+*   **Benevolent and Fierce:** Shiva manifests in many forms, from the gentle and compassionate Bholenath (the innocent one) to the terrifying Bhairava.
+*   **Symbolism:** He is often worshipped in the aniconic form of the Lingam. His iconography includes a crescent moon in his hair, the Ganga river flowing from his head, a snake around his neck, a trident (Trishula), and a drum (Damaru).
+*   **Sect:** He is the primary deity in Shaivism, one of the major traditions of Hinduism.
+
+---
+
+### Who is Guru Raghavendra in Hinduism?
+
+**Guru Raghavendra Swamy** (c. 1595 – 1671 CE) was a prominent **Hindu saint, philosopher, and theologian** who lived in the 17th century. He was a leading proponent and great exponent of the **Dvaita philosophy of Sri Madhvacharya**, which posits a fundamental distinction between God, the individual soul (Jiva), and matter (Prakriti).
+
+Key aspects and significance of Guru Raghavendra Swamy:
+
+*   **Dvaita Philosopher:** He was a highly influential pontiff (Peetadhipati) of the Madhva Matha (monastery), specifically the Sri Raghavendra Swamy Matha, and a staunch defender of Dvaita tenets through debates and extensive writings.
+*   **Scholar and Teacher:** Born as Venkatanatha, he was known for his profound scholarship in the Vedas, Upanishads, and Dvaita philosophy. He imparted spiritual knowledge and guidance to countless disciples.
+*   **Miracle Worker:** Many devotees believe he performed numerous miracles during his lifetime, healing the sick, helping the needy, and demonstrating his spiritual powers.
+*   **Jiva Samadhi at Mantralayam:** In 1671, he entered *jiva samadhi* (a state of conscious self-entombment) at Mantralayam, a village in Andhra Pradesh, India. He declared that he would remain in the *Brindavan* (his sacred tomb shrine) for 700 years, providing blessings and guidance to his devotees.
+*   **Continuous Presence:** Even today, Mantralayam is a major pilgrimage site, and millions of devotees believe that Guru Raghavendra Swamy continues to bless and intercede for them from his *Brindavan*. He is revered for his compassion, wisdom, and the power to grant wishes and alleviate suffering.
+*   **Revered Saint:** He is a highly revered saint, particularly in the Madhva Vaishnava tradition, and is worshipped across South India and by followers globally.
+
+========================================================================
+
+Model: openai/gpt-oss-120b
+
+**1. Lord Krishna**
+
+| Aspect | Description |
+|--------|-------------|
+| **Divine role** | Krishna is regarded as the **eighth avatar (incarnation) of Lord Vishnu**, the Preserver in the Hindu Trimurti (Brahma‑the Creator, Vishnu‑the Preserver, Shiva‑the Destroyer). In many traditions he is also worshipped as the **Supreme Being Himself**, not merely an incarnation. |
+| **Mythic narratives** | • **Child‑god** – The early life of Krishna, recounted in the *Bhagavata Purāṇa*, shows him performing miraculous feats (lifting Govardhan Hill, subduing the serpent Kaliya, stealing butter). <br>• **Cowherd youth** – His playful, romantic episodes with the gopis of Vrindavan, especially the divine love with **Radha**, illustrate the intimate, personal side of the divine. <br>• **Prince of Dwaraka** – As a young adult, Krishna becomes a statesman, strategist and charioteer. The **Mahābhārata** depicts him as the guide of the Pandavas, most famously as Arjuna’s charioteer in the **Bhagavad Gītā**. |
+| **Key teachings** | The **Bhagavad Gītā** (a dialogue between Krishna and Arjuna) is one of Hinduism’s principal scriptures. It presents Krishna’s teachings on: <br>• **Dharma** (righteous duty) <br>• **Karma yoga** – self‑less action <br>• **Bhakti yoga** – devotion to God <br>• **Jnana yoga** – knowledge of the self and the ultimate reality |
+| **Forms of worship** | • **Krishna‑bhakti** (devotional worship) is central to traditions such as **Gaudiya Vaishnavism**, **Haridasa**, and **ISKCON**. <br>• Popular festivals include **Janmashtami** (Krishna’s birth) and **Rasa‑lila** celebrations. |
+| **Symbolism** | • **Flute** – the music of the soul, attraction of all beings. <br>• **Peacock feather** – beauty and transcendence. <br>• **Cow** – compassion, sustenance, and the agrarian life. |
+
+---
+
+**2. Lord Shiva**
+
+| Aspect | Description |
+|--------|-------------|
+| **Divine role** | Shiva is the **Destroyer or Transformer** in the Trimurti, complementing Brahma (Creator) and Vishnu (Preserver). He is also known as **Mahadeva** (“Great God”). |
+| **Core attributes** | • **Ascetic** – often depicted meditating on Mount Kailāśa, embodying renunciation and inner stillness. <br>• **Householder** – married to **Parvati** (also known as Shakti) and father of **Ganesha** and **Kārtikeya**; this duality shows that destruction and creation are interwoven. <br>• **Cosmic dancer** – the **Natarāja** form, dancing the *Tandava* that signifies the rhythmic creation‑preservation‑destruction of the universe. |
+| **Iconography** | • **Third eye** – represents higher perception; its opening destroys illusion. <br>• **Crescent moon** – the mind’s subtle cycles. <br>• **Trishula** (trident) – three powers: creation, preservation, destruction; also symbolizes the three gunas (Sattva, Rajas, Tamas). <br>• **Blue throat (Neelakantha)** – after drinking the poison *Halahala* during the churning of the ocean, he saved the world, showing self‑sacrifice. |
+| **Key scriptures & myths** | • **Shiva Purāṇa**, **Linga Purāṇa**, and many passages in the **Mahābhārata** and **Rāmāyaṇa**. <br>• Stories of **Bhasma** (ash) covering his body, the **Ganga** descending from his matted hair, and the **Daksha‑Yajna** episode illustrate his roles as both ascetic and compassionate protector. |
+| **Forms of worship** | • **Shaivism** – a major Hindu denomination with sub‑traditions (Kashmir Shaivism, Tamil Shaiva Siddhanta, etc.). <br>• **Lingam** – an aniconic representation of Shiva’s creative energy, widely worshipped in temples. <br>• Major festivals: **Maha Shivaratri** (the “Great Night of Shiva”), **Kartik Purnima**, and **Somvar** (Mondays) are especially sacred. |
+| **Philosophical significance** | • Shiva embodies **the principle of *śūnyatā* (emptiness) and *āśuddhi* (purity through destruction)**—the idea that by dissolving old patterns, the universe can be reborn. <br>• In many schools, he is the **Adiyogi** (the first yogi), the source of all yoga practices. |
+
+---
+
+**3. Guru Raghavendra (Śrī Raghavendra Swāmī)**  
+
+| Aspect | Description |
+|--------|-------------|
+| **Historical identity** | **Śrī Raghavendra Swāmī** (c. 1595 – 1671 CE) was a **Madhva‑Vedanta saint, philosopher, and pontiff** of the **Sri Madhva Matha at Kumbakonam** (present‑day Tamil Nadu). He belongs to the **Dvaita (dualistic) school** founded by **Madhvācārya** (13th century). |
+| **Early life** | Born **Venkatanatha** in **Bangalore**, he displayed prodigious scholarly abilities, mastering the Vedas, Upaniṣads, and the works of Madhvācārya by his teens. He was initiated into sannyāsa by **Śrī Lakshmipati Tirtha**, the then head of the Madhva order. |
+| **Spiritual contributions** | • **Commentaries** – authored detailed commentaries on key Dvaita texts (e.g., *Bhagavata Purāṇa*, *Mahabharata*, *Brahma‑Sūtra*). <br>• **Miraculous deeds** – numerous hagiographic accounts describe his **miraculous healings, protection of devotees, and interventions in natural calamities**, which have made him a beloved figure, especially in South India. <br>• **Bhakti & service** – emphasized **devotion (bhakti) to Lord Vishnu/Krishna**, combined with rigorous **scriptural study** and **service (seva)**. |
+| **Philosophical stance** | As a **Dvaitin**, he taught that **the soul (jīva) and God (Viṣṇu) are eternally distinct**, and that liberation (*moksha*) is attained through **devotion, surrender (prapatti), and knowledge** of this duality. He also stressed the **importance of a living guru** for spiritual progress. |
+| **Legacy & worship** | • **Shrine** – his **Brindavan (samādhi) at Mantralayam (Karnataka)** draws millions of pilgrims each year. <br>• **Festivals** – *Raghavendra Jayanthi* (birthday) and *Raghavendra Aradhana* (death anniversary) are major observances, featuring discourses, bhajans, and communal service. <br>• **Influence** – his teachings continue to be studied in Dvaita institutions, and his life story is recounted in the *Raghavendra Stavam* and *Raghavendra Mahatmya*. |
+| **Relation to broader Hinduism** | Though rooted in the **Vaishnava (Vishnu‑centric) tradition**, Guru Raghavendra’s emphasis on **devotion, ethical conduct, and the guru‑disciple relationship** resonates across many Hindu sects. He is revered as a **spiritual master (guru) and a *siddha* (realized being)** rather than as a deity. |
+
+---
+
+### In Summary
+
+- **Krishna** is the beloved avatar of Vishnu, central to the Bhagavad Gītā and Vaishnava devotion, embodying divine love, duty, and the path of bhakti.  
+- **Shiva** is the cosmic destroyer‑transformer, the ascetic‑householder deity of Shaivism, symbolized by the trident, third eye, and the dancing Natarāja.  
+- **Guru Raghavendra** (Śrī Raghavendra Swāmī) was a 17th‑century saint‑philosopher of the Dvaita Vedanta tradition, celebrated for his scholarship, miracles, and enduring influence on Vaishnava devotional practice.  
+
+All three figures occupy distinct but complementary places within the vast tapestry of Hindu religious thought and practice.
+
+========================================================================

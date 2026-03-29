@@ -1,0 +1,44 @@
+ISSUE: ImportError — cannot import name 'load_dotenv' from 'dotenv'
+====================================================================
+
+What went wrong
+---------------
+Two different PyPI packages both install a top-level Python package named "dotenv":
+
+  • python-dotenv  — the standard package. It provides load_dotenv() and is what
+    you want for reading .env files.
+
+  • python-env     — a different project that bundles its own dotenv/ code under
+    the same "dotenv" folder name.
+
+If both are installed, the wrong one can win (or overwrite the same path), so
+importing:
+
+    from dotenv import load_dotenv
+
+loads the minimal "dotenv" from python-env, which has load() but NOT
+load_dotenv(). That causes:
+
+    ImportError: cannot import name 'load_dotenv' from 'dotenv'
+
+Steps to fix
+------------
+1. Remove python-env from your project dependencies (e.g. delete it from the
+   dependencies list in pyproject.toml).
+
+2. Keep python-dotenv as the only package used for .env loading.
+
+3. Refresh the environment and restore the correct dotenv module, for example:
+
+   uv sync
+   uv pip install --force-reinstall python-dotenv
+
+4. Run your script again:
+
+   uv run main.py
+
+Rule of thumb
+-------------
+For loading environment variables from a .env file, use the package named
+"python-dotenv" on PyPI. Do not install "python-env" expecting the same
+behavior — the names are easy to confuse, but they conflict.
